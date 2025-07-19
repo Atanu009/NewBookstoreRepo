@@ -1,0 +1,41 @@
+.about-section {
+  padding: 60px 20px;
+  background-color: #f8f9fa;
+  text-align: center;
+}
+
+.about-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.about-image {
+  flex: 1;
+  padding: 10px;
+}
+
+.about-image img {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.about-text {
+  flex: 1;
+  padding: 20px;
+}
+
+.about-text h2 {
+  font-size: 2.5rem;
+  color: #ffc107;
+}
+
+.about-text p {
+  font-size: 1.2rem;
+  color: #555;
+  margin-top: 15px;
+}

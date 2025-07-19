@@ -1,0 +1,17 @@
+.category-books-section {
+  padding: 30px;
+  background-color: #fff;
+}
+
+.section-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 in a row */
+  gap: 20px;
+}

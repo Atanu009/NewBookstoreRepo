@@ -1,0 +1,40 @@
+.popular-books-section {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.section-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #333;
+  font-weight: bold;
+}
+
+.scroll-wrapper {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.scroll-container {
+  display: flex;
+  gap: 16px;
+}
+
+.scroll-container > * {
+  flex: 0 0 auto; /* Prevent stretching */
+  width: 250px;   /* Adjust width to fit 4 cards in your screen */
+}
+
+.scroll-wrapper::-webkit-scrollbar {
+  height: 8px;
+}
+
+.scroll-wrapper::-webkit-scrollbar-thumb {
+  background: #ffc107;
+  border-radius: 4px;
+}
+
+.scroll-wrapper::-webkit-scrollbar-track {
+  background: #eee;
+}

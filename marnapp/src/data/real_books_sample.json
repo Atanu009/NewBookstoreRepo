@@ -1,0 +1,92 @@
+[
+  {
+    "id": 11,
+    "name": "The Night Circus",
+    "about": "A magical competition between two young illusionists evolves into a deep love story.",
+    "rating": 4.9,
+    "price": 972,
+    "image": "/assets/book11.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 12,
+    "name": "Steve Jobs",
+    "about": "The biography of Apple\u2019s visionary co-founder, detailing his passion and perfectionism.",
+    "rating": 3.3,
+    "price": 260,
+    "image": "/assets/book12.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 13,
+    "name": "Thinking, Fast and Slow",
+    "about": "An exploration of the dual systems that drive the way we think and make decisions.",
+    "rating": 4.6,
+    "price": 195,
+    "image": "/assets/book13.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 14,
+    "name": "The Book Thief",
+    "about": "A young girl finds solace by stealing books and sharing them during Nazi Germany.",
+    "rating": 4.4,
+    "price": 980,
+    "image": "/assets/book14.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 15,
+    "name": "The Power of Habit",
+    "about": "Examines the science behind habit creation and how habits can be changed.",
+    "rating": 4.8,
+    "price": 418,
+    "image": "/assets/book15.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 16,
+    "name": "The Alchemist",
+    "about": "A shepherd\u2019s journey in search of treasure reveals life\u2019s deeper meaning.",
+    "rating": 3.7,
+    "price": 779,
+    "image": "/assets/book16.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 17,
+    "name": "Sapiens",
+    "about": "A brief history of humankind from ancient times to the modern era.",
+    "rating": 3.6,
+    "price": 750,
+    "image": "/assets/book17.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 18,
+    "name": "Batman: Year One",
+    "about": "A gritty reboot of Batman\u2019s origin story focusing on his early days in Gotham.",
+    "rating": 4.7,
+    "price": 104,
+    "image": "/assets/book18.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 19,
+    "name": "Spider-Man: Blue",
+    "about": "A nostalgic and heartfelt look at Peter Parker\u2019s love for Gwen Stacy.",
+    "rating": 3.9,
+    "price": 292,
+    "image": "/assets/book19.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 20,
+    "name": "V for Vendetta",
+    "about": "A dystopian tale of rebellion against a totalitarian government.",
+    "rating": 4.4,
+    "price": 350,
+    "image": "/assets/book20.jpg",
+    "category": "Comic"
+  }
+]

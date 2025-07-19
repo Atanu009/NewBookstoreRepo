@@ -1,0 +1,28 @@
+.footer-section {
+  background-color: #1e1e1e;
+  color: #fff;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.social-icon {
+  color: #fff;
+  font-size: 24px;
+  transition: color 0.3s ease;
+}
+
+.social-icon:hover {
+  color: #ffc107; /* Bootstrap Yellow */
+}
+
+.footer-text {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #cccccc;
+}

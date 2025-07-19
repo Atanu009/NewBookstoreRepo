@@ -1,0 +1,36 @@
+.hero-section {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+  width: 100%;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6); /* Black overlay */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.hero-content {
+  color: white;
+  padding: 20px;
+}
+
+.hero-content h1 {
+    color: #ffc107;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero-content p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}

@@ -1,0 +1,587 @@
+[
+  {
+     "id": 1,
+    "name": "To Kill a Mockingbird",
+    "about": "A young girl in the Deep South faces issues of race and justice through her father’s courtroom battles.",
+    "image": "/assets/book1.jpg",
+    "rating": "4.5",
+    "price": 299,
+    "category": "Story"
+  },
+  {
+    "id": 2,
+    "name": "Educated by Tara Westover",
+    "about": "A memoir of leaving a survivalist family and pursuing an education.",
+    "rating": 4.4,
+    "price": 879,
+    "image": "/assets/book2.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 3,
+    "name": "Pride and Prejudice",
+    "about": "A classic romance about social class, manners, and marriage in early 19th-century England.",
+    "rating": 4.56,
+    "price": 203,
+    "image": "/assets/book3.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 4,
+    "name": "The Great Gatsby ",
+    "about": "Jay Gatsby’s obsession with Daisy Buchanan leads to tragic lessons on the American Dream.",
+    "rating": 3.9,
+    "price": 717,
+    "image": "/assets/book4.jpeg",
+    "category": "Story"
+  },
+  {
+    "id": 5,
+    "name": "Team of Rivals by Doris Kearns Goodwin",
+    "about": "Lincoln’s leadership style during the Civil War through his cabinet.",
+    "rating": 4.3,
+    "price": 186,
+    "image": "/assets/book5.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 6,
+    "name": "Watchmen",
+    "about": "A deconstruction of the superhero genre, set in an alternate Cold War America.",
+    "rating": 4.4,
+    "price": 816,
+    "image": "/assets/book6.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 7,
+    "name": "Einstein: His Life and Universe by Walter Isaacson",
+    "about": "A humanizing portrait of Albert Einstein, blending science with personal narrative. ",
+    "rating": 4.1,
+    "price": 868,
+    "image": "/assets/book7.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 8,
+    "name": "Thinking, Fast and Slow by Daniel Kahneman ",
+    "about": "A landmark exploration of human decision-making.",
+    "rating": 4.1,
+    "price": 219,
+    "image": "/assets/book8.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 9,
+    "name": "One Hundred Years of Solitude ",
+    "about": "Magical realism follows several generations of the Buendía family in the mythical town of Macondo.",
+    "rating": 4.0,
+    "price": 450,
+    "image": "/assets/book9.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 10,
+    "name": "The Immortal Life of Henrietta Lacks ",
+    "about": "The story of the woman whose cells changed medical research forever. ",
+    "rating": 4.07,
+    "price": 761,
+    "image": "/assets/book10.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 11,
+    "name": "The Night Circus",
+    "about": "A magical competition between two young illusionists evolves into a deep love story.",
+    "rating": 4.9,
+    "price": 972,
+    "image": "/assets/book11.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 12,
+    "name": "Steve Jobs",
+    "about": "The biography of Apples visionary co-founder, detailing his passion and perfectionism.",
+    "rating": 3.3,
+    "price": 260,
+    "image": "/assets/book12.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 13,
+    "name": "Thinking, Fast and Slow",
+    "about": "An exploration of the dual systems that drive the way we think and make decisions.",
+    "rating": 4.6,
+    "price": 195,
+    "image": "/assets/book13.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 14,
+    "name": "The Book Thief",
+    "about": "A young girl finds solace by stealing books and sharing them during Nazi Germany.",
+    "rating": 4.4,
+    "price": 980,
+    "image": "/assets/book14.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 15,
+    "name": "The Power of Habit",
+    "about": "Examines the science behind habit creation and how habits can be changed.",
+    "rating": 4.8,
+    "price": 418,
+    "image": "/assets/book15.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 16,
+    "name": "The Alchemist",
+    "about": "A shepherds journey in search of treasure reveals lifes deeper meaning.",
+    "rating": 3.7,
+    "price": 779,
+    "image": "/assets/book16.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 17,
+    "name": "Sapiens",
+    "about": "A brief history of humankind from ancient times to the modern era.",
+    "rating": 3.6,
+    "price": 750,
+    "image": "/assets/book17.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 18,
+    "name": "Batman: Year One",
+    "about": "A gritty reboot of Batmans origin story focusing on his early days in Gotham.",
+    "rating": 4.7,
+    "price": 104,
+    "image": "/assets/book18.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 19,
+    "name": "Spider-Man: Blue",
+    "about": "A nostalgic and heartfelt look at Peter Parkers love for Gwen Stacy.",
+    "rating": 3.9,
+    "price": 292,
+    "image": "/assets/book19.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 20,
+    "name": "V for Vendetta",
+    "about": "A dystopian tale of rebellion against a totalitarian government.",
+    "rating": 4.4,
+    "price": 350,
+    "image": "/assets/book20.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 21,
+    "name": "Ms. Marvel: No Normal",
+    "about": "A Muslim teen from Jersey City gains shape-shifting powers and balances her new identity.",
+    "rating": 3.2,
+    "price": 179,
+    "image": "/assets/book21.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 22,
+    "name": "Long Walk to Freedom",
+    "about": "The autobiography of Nelson Mandela, detailing his fight against apartheid.",
+    "rating": 4.9,
+    "price": 795,
+    "image": "/assets/book22.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 23,
+    "name": "I Am Malala",
+    "about": "The story of the girl who stood up for education and was shot by the Taliban.",
+    "rating": 4.2,
+    "price": 353,
+    "image": "/assets/book23.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 24,
+    "name": "Saga Vol. 1",
+    "about": "A sweeping, emotional comic about two lovers from warring extraterrestrial races.",
+    "rating": 4.5,
+    "price": 696,
+    "image": "/assets/book24.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 25,
+    "name": "The Psychology of Money",
+    "about": "Timeless lessons on wealth, greed, and happiness from financial history.",
+    "rating": 4.9,
+    "price": 575,
+    "image": "/assets/book25.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 26,
+    "name": "Emotional Intelligence",
+    "about": "Explains why EQ may matter more than IQ for success and well-being.",
+    "rating": 3.4,
+    "price": 890,
+    "image": "/assets/book26.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 27,
+    "name": "The Little Prince",
+    "about": "A poetic tale of a young prince’s journey through planets and human nature.",
+    "rating": 3.6,
+    "price": 168,
+    "image": "/assets/book27.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 28,
+    "name": "Grit: The Power of Passion and Perseverance",
+    "about": "Explores how determination and persistence can be more crucial than talent.",
+    "rating": 3.9,
+    "price": 281,
+    "image": "/assets/book28.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 29,
+    "name": "Becoming",
+    "about": "Michelle Obama’s inspiring life story from Chicago to the White House.",
+    "rating": 3.1,
+    "price": 283,
+    "image": "/assets/book29.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 30,
+    "name": "Life of Pi",
+    "about": "A boy survives a shipwreck and shares a lifeboat with a Bengal tiger.",
+    "rating": 4.1,
+    "price": 317,
+    "image": "/assets/book30.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 31,
+    "name": "The Secret Garden",
+    "about": "A lonely girl finds healing and friendship in a hidden garden.",
+    "rating": 4.5,
+    "price": 750,
+    "image": "/assets/book31.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 32,
+    "name": "Einstein: His Life and Universe",
+    "about": "A deep dive into the mind and life of the genius Albert Einstein.",
+    "rating": 4.2,
+    "price": 212,
+    "image": "/assets/book32.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 33,
+    "name": "Wings of Fire",
+    "about": "APJ Abdul Kalam's inspiring journey from Rameswaram to Rashtrapati Bhavan.",
+    "rating": 4.2,
+    "price": 147,
+    "image": "/assets/book33.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 34,
+    "name": "Bone Vol. 1: Out from Boneville",
+    "about": "Three cousins go on a whimsical and epic adventure in a strange valley.",
+    "rating": 3.9,
+    "price": 160,
+    "image": "/assets/book34.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 35,
+    "name": "Y: The Last Man Vol. 1",
+    "about": "In a world where all men die except one, a gripping mystery unfolds.",
+    "rating": 3.7,
+    "price": 599,
+    "image": "/assets/book35.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 36,
+    "name": "Open",
+    "about": "Andre Agassi's candid and introspective memoir about tennis and life.",
+    "rating": 4.5,
+    "price": 210,
+    "image": "/assets/book36.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 37,
+    "name": "The Kite Runner",
+    "about": "A moving story of friendship and betrayal set in Afghanistan.",
+    "rating": 4.7,
+    "price": 383,
+    "image": "/assets/book37.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 38,
+    "name": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+    "about": "Ashlee Vance tells the tale of one of tech’s boldest innovators.",
+    "rating": 4.1,
+    "price": 444,
+    "image": "/assets/book38.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 39,
+    "name": "The Catcher in the Rye",
+    "about": "Holden Caulfield narrates his alienation and rebellion in New York City.",
+    "rating": 4.2,
+    "price": 681,
+    "image": "/assets/book39.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 40,
+    "name": "Steve Jobs",
+    "about": "Walter Isaacson’s biography of the complex Apple co-founder and visionary.",
+    "rating": 5.0,
+    "price": 421,
+    "image": "/assets/book40.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 41,
+    "name": "Locke & Key Vol. 1",
+    "about": "A dark fantasy about magical keys and family trauma after a father's murder.",
+    "rating": 4.2,
+    "price": 671,
+    "image": "/assets/book41.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 42,
+    "name": "Paper Girls Vol. 1",
+    "about": "Four teens delivering newspapers stumble into a time-travel conspiracy.",
+    "rating": 3.8,
+    "price": 161,
+    "image": "/assets/book42.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 43,
+    "name": "Born a Crime",
+    "about": "Trevor Noah’s hilarious and painful childhood in apartheid South Africa.",
+    "rating": 4.3,
+    "price": 994,
+    "image": "/assets/book43.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 44,
+    "name": "When Breath Becomes Air",
+    "about": "A neurosurgeon’s reflection on life and death after a cancer diagnosis.",
+    "rating": 4.7,
+    "price": 459,
+    "image": "/assets/book44.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 45,
+    "name": "The Midnight Library",
+    "about": "A woman explores alternate lives in a library between life and death.",
+    "rating": 4.4,
+    "price": 612,
+    "image": "/assets/book45.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 46,
+    "name": "Sweet Tooth Vol. 1",
+    "about": "In a post-apocalyptic world, a hybrid deer-boy searches for hope.",
+    "rating": 4.3,
+    "price": 988,
+    "image": "/assets/book46.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 47,
+    "name": "Stumbling on Happiness",
+    "about": "Psychologist Daniel Gilbert explores why humans are bad at predicting joy.",
+    "rating": 3.7,
+    "price": 920,
+    "image": "/assets/book47.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 48,
+    "name": "Where the Crawdads Sing",
+    "about": "A girl raised in the wild marshes becomes a murder suspect.",
+    "rating": 4.4,
+    "price": 570,
+    "image": "/assets/book48.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 49,
+    "name": "Little Women",
+    "about": "Four sisters grow up with love, ambition, and resilience during the Civil War.",
+    "rating": 3.7,
+    "price": 973,
+    "image": "/assets/book49.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 50,
+    "name": "Mindset: The New Psychology of Success",
+    "about": "Carol Dweck explains how adopting a growth mindset leads to achievement.",
+    "rating": 4.4,
+    "price": 528,
+    "image": "/assets/book50.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 51,
+    "name": "Into the Wild",
+    "about": "The true story of a young man’s fatal journey into the Alaskan wilderness.",
+    "rating": 4.6,
+    "price": 534,
+    "image": "/assets/book51.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 52,
+    "name": "Drive: The Surprising Truth About What Motivates Us",
+    "about": "Explores the science of motivation beyond rewards and punishments.",
+    "rating": 3.8,
+    "price": 355,
+    "image": "/assets/book52.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 53,
+    "name": "Blink",
+    "about": "How we make snap judgments—and when they can be trusted or not.",
+    "rating": 3.2,
+    "price": 352,
+    "image": "/assets/book53.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 54,
+    "name": "Alexander Hamilton",
+    "about": "The biography that inspired the hit musical, about a founding father’s life.",
+    "rating": 4.6,
+    "price": 974,
+    "image": "/assets/book54.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 55,
+    "name": "Superman: Red Son",
+    "about": "What if Superman had been raised in Soviet Russia? A thought-provoking twist.",
+    "rating": 4.3,
+    "price": 707,
+    "image": "/assets/book55.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 56,
+    "name": "The Diary of a Young Girl",
+    "about": "Anne Frank’s poignant writings from hiding during Nazi occupation.",
+    "rating": 3.3,
+    "price": 749,
+    "image": "/assets/book56.jpg",
+    "category": "Biopic"
+  },
+  {
+    "id": 57,
+    "name": "A Man Called Ove",
+    "about": "A grumpy man finds joy in unlikely friendships after great loss.",
+    "rating": 3.9,
+    "price": 716,
+    "image": "/assets/book57.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 58,
+    "name": "Batman: The Killing Joke",
+    "about": "A disturbing deep dive into Joker’s past and Batman’s psyche.",
+    "rating": 4.0,
+    "price": 699,
+    "image": "/assets/book58.jpg",
+    "category": "Comic"
+  },
+  {
+    "id": 59,
+    "name": "Flow: The Psychology of Optimal Experience",
+    "about": "Learn how people find joy, creativity, and total involvement in life.",
+    "rating": 4.1,
+    "price": 401,
+    "image": "/assets/book59.jpg",
+    "category": "Psychology"
+  },
+  {
+    "id": 60,
+    "name": "The Giver",
+    "about": "A dystopian tale where one boy is chosen to bear society’s suppressed memories.",
+    "rating": 3.3,
+    "price": 521,
+    "image": "/assets/book60.jpg",
+    "category": "Story"
+  },
+  {
+    "id": 61,
+    "name": "The Bhagavad Gita",
+    "about": "A sacred Hindu scripture where Lord Krishna imparts spiritual wisdom to Arjuna on the battlefield.",
+    "rating": 5,
+    "price": 500,
+    "image": "/assets/book61.jpg",
+    "category": "Religion"
+  },
+  {
+    "id": 62,
+    "name": "The Bible: King James Version",
+    "about": "The classic English translation of the Christian Bible, revered for its poetic language and spiritual teachings.",
+    "rating": 4.7,
+    "price": 499,
+    "image": "/assets/book62.jpg",
+    "category": "Religion"
+  },
+  {
+    "id": 63,
+    "name": "The Quran",
+    "about": "The holy book of Islam revealed to Prophet Muhammad, offering guidance on all aspects of life.",
+    "rating": 4.9,
+    "price": 299,
+    "image": "/assets/book63.jpg",
+    "category": "Religion"
+  },
+  {
+    "id": 64,
+    "name": "The Dhammapada",
+    "about": "A revered Buddhist scripture presenting the teachings of the Buddha in verse form.",
+    "rating": 4.6,
+    "price": 275,
+    "image": "/assets/book64.jpg",
+    "category": "Religion"
+  },
+  {
+    "id": 65,
+    "name": "The Upanishads",
+    "about": "A foundational text of Indian philosophy, exploring the nature of reality, self, and consciousness.",
+    "rating": 4.5,
+    "price": 399,
+    "image": "/assets/book65.jpg",
+    "category": "Religion"
+  }
+]
