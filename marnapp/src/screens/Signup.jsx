@@ -21,7 +21,7 @@ const Signup = () => {
   const handleSignup = async (e) => {
     e.preventDefault();
     try {
-      const res = await axios.post('http://localhost:5000/api/signup', form);
+      const res = await axios.post('https://bookstore-api-b34m.onrender.com/api/signup', form);
       if (res.data.success) {
         alert('✅ Signup successful!');
         navigate('/login'); // Redirect to login

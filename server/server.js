@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 // MongoDB connection
-mongoose.connect('mongodb+srv://maityatanu34:9GJDkaGp3wbthltT@useraccout.siuewib.mongodb.net/?retryWrites=true&w=majority&appName=useraccout', {
+mongoose.connect('mongodb+srv://maityatanu34:ENvw.9RiEjdw8hR@useraccout.siuewib.mongodb.net/?retryWrites=true&w=majority&appName=useraccout', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
